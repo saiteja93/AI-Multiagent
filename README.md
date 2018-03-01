@@ -1,4 +1,4 @@
-uthor: Saiteja Sirikonda
+Author: Saiteja Sirikonda
 Course: Intro to Artificial Intelligence by Prof. Subbarao Kambhampati in Fall 2017.
 
 This is the first Project of the CS188 Berkeley Pacman Projects, which can be found at http://ai.berkeley.edu/multiagent.html
